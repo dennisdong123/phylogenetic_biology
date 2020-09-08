@@ -277,7 +277,7 @@ Not all groups are monophyletic. For example, the group consisting of people and
 
 ## Polytomies
 
-Some phylogenies are not strictly bifurcating. An internal node with more than two edges connecting it to descendants is called a polytomy (Figure \@ref(fig:trees-polytomies)B-D). This can be to uncertainty about branching order (a soft polytomy) or multiple divergence events in very quick succession, giving rise at effectively the same time to more than two lineages (a hard polytomy).
+Some phylogenies are not strictly bifurcating. An internal node with more than two edges connecting it to descendants is called a polytomy (Figure \@ref(fig:trees-polytomies)B-D). This can be due to uncertainty about branching order (a soft polytomy) or multiple divergence events in very quick succession, giving rise at effectively the same time to more than two lineages (a hard polytomy).
 
 A phylogeny that consists entirely of a single polytomy is said to be entirely unresolved -- it has no topological information. When laid out in a rectangular format, it looks like a comb (Figure \@ref(fig:trees-polytomies)D). When laid out in a slanted format it looks like a star. So you will hear fully unresolved trees referred to as comb or star phylogenies.
 
@@ -505,7 +505,7 @@ Node annotations can include:
 
 Edge annotations can include:
 
-- Length. The value and unit of length can differ, for example it can time (as in a chronogram) or expected amount of change in a particular set of characters (as in a phylogram).
+- Length. The value and unit of length can differ, for example it can be time (as in a chronogram) or expected amount of change in a particular set of characters (as in a phylogram).
 
 - Directionality. An indication of which direction time goes in along each edge. This only applies in the context of a rooted phylogenies.
 
